@@ -1,3 +1,3 @@
-FROM matrixdotorg/synapse:v1.99.0
+FROM ghcr.io/element-hq/synapse:v1.99.0
 
 RUN pip install synapse-s3-storage-provider
