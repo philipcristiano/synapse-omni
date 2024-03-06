@@ -1,3 +1,3 @@
-FROM ghcr.io/element-hq/synapse:v1.101.0
+FROM ghcr.io/element-hq/synapse:v1.102.0
 
 RUN pip install synapse-s3-storage-provider
